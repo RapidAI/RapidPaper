@@ -1,2 +1,2 @@
 # RapidPaper
-Translate papers with Egnlish into Chinese.
+A tool designed for translating academic papers from English to Chinese.
